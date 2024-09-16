@@ -33,6 +33,7 @@
 	},
 	"type": "module",
 	"dependencies": {
-		"@sentry/sveltekit": "^8.30.0"
+		"@sentry/sveltekit": "^8.30.0",
+		"@sentry/vite-plugin": "^2.22.4"
 	}
 }
